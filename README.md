@@ -1,2 +1,2 @@
 # test
-testing out the
+testing out the platform
